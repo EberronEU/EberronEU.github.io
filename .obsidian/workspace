@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/New Note.md",
+            "file": "Story Inspirations/Heavensward.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "019c96fb0cca0dbb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "This is a New Note.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New Note.md",
+                "file": "This is a New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "886c31be8b72bdc6",
+  "active": "019c96fb0cca0dbb",
   "lastOpenFiles": [
-    "Templates/New Note.md",
+    "This is a New Note.md",
     "Story Inspirations/Heavensward.md",
-    "The Eberron Extended Universe.md",
-    "Untitled.md"
+    "Templates/New Note.md",
+    "The Eberron Extended Universe.md"
   ]
 }
