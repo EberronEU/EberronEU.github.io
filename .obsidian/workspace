@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This is a New Note.md",
+                "file": "Story Inspirations/Heavensward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "019c96fb0cca0dbb",
+  "active": "886c31be8b72bdc6",
   "lastOpenFiles": [
-    "This is a New Note.md",
     "Story Inspirations/Heavensward.md",
+    "This is a New Note.md",
     "Templates/New Note.md",
     "The Eberron Extended Universe.md"
   ]
