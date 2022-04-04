@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "a9addcf478b8e139",
+    "type": "split",
+    "children": [
+      {
+        "id": "886c31be8b72bdc6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Story Inspirations/Heavensward.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de230a48d57f379b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5d8c569079c7f290",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "46bfb072f26172db",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "8664c6983462345e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "96c9ed423adddc36",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Story Inspirations/Heavensward.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "pinned": true
+  },
+  "active": "886c31be8b72bdc6",
+  "lastOpenFiles": [
+    "Story Inspirations/Heavensward.md",
+    "The Eberron Extended Universe.md",
+    "Untitled.md",
+    "Templates/New Note.md"
+  ]
+}
